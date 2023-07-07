@@ -1,7 +1,5 @@
 ---
 share: true
-------
-share: true
 ---
 
 (175) [Train the Trainers 2023] Buổi 1: Khởi động và tìm hiểu phương pháp học tập của STEAM for Vietnam - YouTube
